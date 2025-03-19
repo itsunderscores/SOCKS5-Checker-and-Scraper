@@ -22,7 +22,7 @@ pip install pysocks
 ## Usage
 Clone the repository:
 ```bash
-git clone https://github.com/yourusername/socks5-proxy-checker.git
+git clone https://github.com/itsunderscores/SOCKS5-Checker-and-Scraper.git
 ```
 
 Navigate into the project folder:
